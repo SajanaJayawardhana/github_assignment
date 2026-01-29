@@ -1,3 +1,4 @@
+# Added a test comment for feature branch
 # simple_addition.py
 # This program adds two numbers and displays the result
 
